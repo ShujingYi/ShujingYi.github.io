@@ -2,9 +2,9 @@
 
 ---
 
-### Category Name 1 
+### Data Analytics
 
-[Project 1 Title](/sample_page)
+[NYC Airbnb market in a post-pandemic future](https://shujingyi.github.io/NYC-Airbnb-blog/)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
