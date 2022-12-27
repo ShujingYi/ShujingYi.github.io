@@ -12,7 +12,7 @@ This project aims to use New York City as a case, study how the pandemic influen
 
 ---
 ### [SmartBurn-Wildfire prediction for prescribed burn](https://shujingyi.github.io/NYC-Airbnb-blog/)
-<img src="images/wildfire.png?raw=true"/>
+<img src="images/wildfire.png?"/>
 
 ---
 [Project 3 Title](http://example.com/)
