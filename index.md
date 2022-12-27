@@ -1,11 +1,12 @@
-## Portfolio
+# Portfolio
 
 ---
 
-### Data Analytics
+## Data Analytics
 
-[NYC Airbnb market in a post-pandemic future](https://shujingyi.github.io/NYC-Airbnb-blog/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+### [NYC Airbnb market in a post-pandemic future](https://shujingyi.github.io/NYC-Airbnb-blog/)
+This project aims to use New York City as a case, study how the pandemic influenced the Airbnb market in different aspects, and provide advice for both Airbnb hosts and guests in the post-pandemic future.
+<img src="images/Airbnb.png?raw=true"/>
 
 ---
 [Project 2 Title](/pdf/sample_presentation.pdf)
