@@ -6,11 +6,13 @@
 
 ### [NYC Airbnb market in a post-pandemic future](https://shujingyi.github.io/NYC-Airbnb-blog/)
 This project aims to use New York City as a case, study how the pandemic influenced the Airbnb market in different aspects, and provide advice for both Airbnb hosts and guests in the post-pandemic future.
+
 <img src="images/Airbnb.jpg?raw=true"/>
 
+
 ---
-[Project 2 Title](/pdf/sample_presentation.pdf)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+### [SmartBurn-Wildfire prediction for prescribed burn](https://shujingyi.github.io/NYC-Airbnb-blog/)
+<img src="images/wildfire.png?raw=true"/>
 
 ---
 [Project 3 Title](http://example.com/)
