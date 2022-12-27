@@ -7,7 +7,7 @@
 ### [NYC Airbnb market in a post-pandemic future](https://shujingyi.github.io/NYC-Airbnb-blog/)
 This project aims to use New York City as a case, study how the pandemic influenced the Airbnb market in different aspects, and provide advice for both Airbnb hosts and guests in the post-pandemic future.
 
-<img src="images/Airbnb.jpg?raw=true"/>
+<img src="images/Airbnb_small.jpg?raw=true"/>
 
 
 ---
