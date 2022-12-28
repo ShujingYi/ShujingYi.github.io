@@ -11,8 +11,8 @@ This project aims to use New York City as a case, study how the pandemic influen
 
 
 ---
-### [SmartBurn-Wildfire prediction for prescribed burn](https://shujingyi.github.io/NYC-Airbnb-blog/)
-<img src="images/wildfire.png?raw=true"/>
+### [SmartBurn-Wildfire prediction for prescribed burn](https://htmlpreview.github.io/?[https://github.com/palakagr/SparkSafe/blob/main/FinalProject.html](https://github.com/ShujingYi/California-Wildfire/blob/main/Wildfire_Shujing%20%26%20Yuehui.html))  
+<img src="images/wildfire.jpg?raw=true"/>
 
 ---
 [Project 3 Title](http://example.com/)
