@@ -5,17 +5,19 @@
 ## Data Analytics
 
 ### [NYC Airbnb market in a post-pandemic future](https://shujingyi.github.io/NYC-Airbnb-blog/)
-**Python**
-This project aims to use New York City as a case, study how the pandemic influenced the Airbnb market in different aspects, and provide advice for both Airbnb hosts and guests in the post-pandemic future.
+Skill used: Python, Random Forest, K-means Clustering, Data Visualization (Altair, HvPlot, Seaborn)
 
 <img src="images/Airbnb.jpg?raw=true"/>
 
+This project aims to use New York City as a case, study how the pandemic influenced the Airbnb market in different aspects, and provide advice for both Airbnb hosts and guests in the post-pandemic future.
 
 ---
 ### [SmartBurn-Wildfire prediction for prescribed burn](https://htmlpreview.github.io/?https://github.com/ShujingYi/California-Wildfire/blob/main/Wildfire_Shujing%20%26%20Yuehui.html)  
-**R, ArcGIS**
+Skill used: R, ArcGIS, Logistic Regression
 
 <img src="images/wildfire.jpg?raw=true"/>
+
+California is facing a growing wildfire crisis. With climate change, more and more big fires are happening in northern California. We plan to develop a wildfire prediction model from an ecological perspective by considering natural and human factors in our model and proposing a forest management system of prescribed fire. This study is to build a logistic model for a fire management App, “SmartBurn.” 
 
 ---
 ### [Predicting housing prices in Mecklenburg](https://htmlpreview.github.io/?https://github.com/ShujingYi/Midterm-Predicting-Housing-Prices/blob/main/opendata_wrangling_SY_Final.html)  
