@@ -5,6 +5,7 @@
 ## Data Analytics
 
 ### [NYC Airbnb market in a post-pandemic future](https://shujingyi.github.io/NYC-Airbnb-blog/)
+**Python**
 This project aims to use New York City as a case, study how the pandemic influenced the Airbnb market in different aspects, and provide advice for both Airbnb hosts and guests in the post-pandemic future.
 
 <img src="images/Airbnb.jpg?raw=true"/>
@@ -12,11 +13,14 @@ This project aims to use New York City as a case, study how the pandemic influen
 
 ---
 ### [SmartBurn-Wildfire prediction for prescribed burn](https://htmlpreview.github.io/?https://github.com/ShujingYi/California-Wildfire/blob/main/Wildfire_Shujing%20%26%20Yuehui.html)  
+**R, ArcGIS**
+
 <img src="images/wildfire.jpg?raw=true"/>
 
 ---
-[Project 3 Title](http://example.com/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+### [Predicting housing prices in Mecklenburg](https://htmlpreview.github.io/?https://github.com/ShujingYi/Midterm-Predicting-Housing-Prices/blob/main/opendata_wrangling_SY_Final.html)  
+**R**
+<img src="images/housing.jpg?raw=true"/>
 
 ---
 
