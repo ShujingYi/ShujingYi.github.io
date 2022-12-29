@@ -35,10 +35,10 @@ As Zillow has realized that its housing market predictions are not as accurate a
 [Data repository](https://github.com/ShujingYi/Midterm-Predicting-Housing-Prices)
 
 ---
-### [Space-time prediction of LA Metro bike share demand](https://htmlpreview.github.io/?https://github.com/ShujingYi/California-Wildfire/blob/main/Wildfire_Shujing%20%26%20Yuehui.html)  
-Skill used: 
+### [Space-time prediction of LA Metro bike share demand](https://htmlpreview.github.io/?https://github.com/ShujingYi/LA-bike-share-prediction/blob/main/Bike_Share_Time_Space_2019_SY.html)  
+Skill used: R, 
 
-<img src="images/wildfire.jpg?raw=true"/>
+<img src="images/bike_share.jpg?raw=true"/>
 
 
 
