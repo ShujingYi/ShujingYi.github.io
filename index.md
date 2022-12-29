@@ -37,11 +37,13 @@ As Zillow has realized that its housing market predictions are not as accurate a
 
 ---
 ### [Space-time prediction of LA Metro bike share demand](https://htmlpreview.github.io/?https://github.com/ShujingYi/LA-bike-share-prediction/blob/main/Bike_Share_Time_Space_2019_SY.html)  
-Skill used: R, 
+Skill used: R, Linear Regressions
 
 <img src="images/bike_share.jpg?raw=true"/>
 
+One of urban bike share systems’ most challenging operational problems is the need to re-balance bicycles across the network. Re-balancing is to predict bike share demand for all docks at all times and redistribute bikes to ensure a bike or a docking place is available when needed. In this study, modeling and validation with accounting for weather and time effects and experimenting with some amenity features will give us a window into how we can use time-space predictive modeling to address an operations issue.
 
+[Data repository](https://github.com/ShujingYi/LA-bike-share-prediction)
 
 ---
 
