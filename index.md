@@ -15,6 +15,7 @@ This project aims to use New York City as a case, study how the pandemic influen
 
 ---
 ### [SmartBurn-Wildfire prediction for prescribed burn](https://htmlpreview.github.io/?https://github.com/ShujingYi/California-Wildfire/blob/main/Wildfire_Shujing%20%26%20Yuehui.html)  
+
 Skill used: R, ArcGIS, Logistic Regression
 
 <img src="images/wildfire.jpg?raw=true"/>
