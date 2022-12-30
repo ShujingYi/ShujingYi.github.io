@@ -54,7 +54,7 @@ Skill used: R, Poisson Regression
 
 
 ---
-### Exploring Yelp Reviews
+### [Exploring Yelp Reviews](https://github.com/ShujingYi/Exploring-Yelp-Reviews/blob/main/assignment-4-Shujing.ipynb)
 Skill used: Python, sentiment analysis
 
 <img src="images/rating.jpg?raw=true"/>
