@@ -46,8 +46,7 @@ One of urban bike share systems’ most challenging operational problems is the 
 [Data repository](https://github.com/ShujingYi/LA-bike-share-prediction)
 
 ---
-### [Chicago geospatial risk prediction](https://htmlpreview.github.io/?
-https://github.com/ShujingYi/Chicago-geospatial-risk-prediction/blob/main/Chicago%20geospatial%20risk%20prediction.html)  
+### [Chicago geospatial risk prediction](https://htmlpreview.github.io/?https://github.com/ShujingYi/Chicago-geospatial-risk-prediction/blob/main/Chicago%20geospatial%20risk%20prediction.html)  
 Skill used: R, Poisson Regression
 
 <img src="images/Chicago.jpg?raw=true"/>
