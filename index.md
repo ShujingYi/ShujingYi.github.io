@@ -54,6 +54,14 @@ Skill used: R, Poisson Regression
 
 
 ---
+### Exploring Yelp Reviews
+Skill used: Python, sentiment analysis
+
+<img src="images/rating.jpg?raw=true"/>
+
+
+
+---
 
 ## Design Projects
 
