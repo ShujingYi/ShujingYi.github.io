@@ -65,7 +65,7 @@ Seeking reforestation opportunities to reduce air pollution at Pittsburgh, PA
 ### [Public green space & community health](https://docs.google.com/presentation/d/117ZUMBEvz6tlv_ZQ8zwVxkMIhrGnMIbM/edit?usp=sharing&ouid=106477366730395112002&rtpof=true&sd=true)  
 Skill used: ArcGIS, ArcPy
 
-<img src="images/Planting_Future.png?raw=true"/>
+<img src="images/health.jpg?raw=true"/>
 
 Explore relationship between urban green space and health with ArcPy
 
