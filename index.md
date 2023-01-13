@@ -54,7 +54,23 @@ Skill used: R, Poisson Regression
 
 
 ---
-### [Exploring Yelp Reviews](https://github.com/ShujingYi/Exploring-Yelp-Reviews/blob/main/assignment-4-Shujing.ipynb)
+### [Planting for the future](https://storymaps.arcgis.com/stories/a8dcbc88ce174f4aba10eb3816120bd0)  
+Skill used: ArcGIS, Rhino, Grasshopper, After Effect
+
+<img src="images/Planting_Future.png?raw=true"/>
+
+Seeking reforestation opportunities to reduce air pollution at Pittsburgh, PA
+
+---
+### [Public green space & community health](https://docs.google.com/presentation/d/117ZUMBEvz6tlv_ZQ8zwVxkMIhrGnMIbM/edit?usp=sharing&ouid=106477366730395112002&rtpof=true&sd=true)  
+Skill used: ArcGIS, ArcPy
+
+<img src="images/Planting_Future.png?raw=true"/>
+
+Explore relationship between urban green space and health with ArcPy
+
+---
+### [Exploring Yelp reviews](https://github.com/ShujingYi/Exploring-Yelp-Reviews/blob/main/assignment-4-Shujing.ipynb)
 Skill used: Python, sentiment analysis
 
 <img src="images/rating.jpg?raw=true"/>
@@ -63,15 +79,7 @@ Skill used: Python, sentiment analysis
 
 ---
 
-## Design Projects
 
-- [Project 1 Title](http://example.com/)
-- [Project 2 Title](http://example.com/)
-- [Project 3 Title](http://example.com/)
-- [Project 4 Title](http://example.com/)
-- [Project 5 Title](http://example.com/)
-
----
 
 
 
